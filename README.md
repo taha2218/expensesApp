@@ -2,6 +2,7 @@
 
 A new Flutter project for tracking expenses.
 To checkout the app download the app-x86_64-release.apk on your android device.
+For Images : https://github.com/taha2218/expensesApp/issues/1
 
 ## Getting Started
 
